@@ -213,7 +213,7 @@ Is there a great resource that's missing? Please contribute by:
 1. Forking this repository
 2. Adding your resource in the appropriate section
 3. Following the existing format: **Title** - Brief description
-4. Submitting a pull request
+4. Submitting a pull request 
 
 ## Share some love ⭐
 
