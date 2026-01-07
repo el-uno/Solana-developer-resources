@@ -1,12 +1,12 @@
 # Solana Developer Resources
 
-## Solana Developer Resources curated by Udoka, A.M 
+## Solana Developer Resources curated by Udoka, A.M
 
-A curated list of free, high-quality, on-demand resources for developers looking to learn, build, and grow within the Solana ecosystem. This repository is designed to help you understand how Solana works, access top educational content, explore the best tools, and connect with the broader community.
+A curated list of free, high-quality, on-demand resources for developers looking to learn, build, and grow within the Solana ecosystem. This repository is designed to help you understand how Solana works, access top educational content, explore the best tools, and connect with the broader community
 
-Whether you're just getting started or looking to deepen your expertise, you'll find helpful tutorials, documentation, dev tools, funding opportunities, job boards, and more. The goal is not to overwhelm, but to provide you with a practical, well-organised starting point for getting started with Solana development.
+Whether you're just getting started or looking to deepen your expertise, you'll find helpful tutorials, documentation, dev tools, funding opportunities, job boards, and more. The goal is not to overwhelm, but to provide you with a practical, well-organised starting point for getting started with Solana development
 
-This is not an exhaustive index of everything in the ecosystem—rather, it's a focused and evolving guide for anyone serious about building on Solana. You're also welcome to contribute to the repo if you find a useful opportunity for the community.
+This is not an exhaustive index of everything in the ecosystem—rather, it's a focused and evolving guide for anyone serious about building on Solana. You're also welcome to contribute to the repo if you find a useful opportunity for the community
 
 <figure><img src="../img/res.jpg" alt=""><figcaption></figcaption></figure>
 
